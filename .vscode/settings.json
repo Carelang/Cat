@@ -1,5 +1,6 @@
 {
     "discord.workspaceExcludePatterns": [
         "v"
-    ]
+    ],
+    "discord.enabled": true
 }
