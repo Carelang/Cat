@@ -1,0 +1,13 @@
+name: second
+version: 0.1.0
+
+authors:
+  - LouiviS <Kurio.minozia@gmail.com>
+
+targets:
+  second:
+    main: src/main.cr
+
+crystal: 1.0.0
+
+license: MIT
